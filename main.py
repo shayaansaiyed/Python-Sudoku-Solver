@@ -42,12 +42,6 @@ def convertInputToGrid(input):
         grid.append(row_array)
     
     return(grid)
-    
-
-def outputSolution(solved_grid):
-    return
-
-
 
 def main():
     # get user input and convert into 2D array
