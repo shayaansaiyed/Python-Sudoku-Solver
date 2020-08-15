@@ -1,0 +1,13 @@
+TO DO:
+
+Current Task in progress:
+
+
+Tasks to do:
+- create a GUI
+- validate user input
+- create testing script
+- document code 
+- create Read.me
+
+Completed Tasks:
